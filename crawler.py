@@ -1,3 +1,5 @@
+## A Python script that scrapes episode information and dialogues from a website hosting TV show scripts ##
+
 # Initial imports
 import numpy as np
 import pandas as pd
