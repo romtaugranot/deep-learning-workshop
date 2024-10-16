@@ -7,3 +7,13 @@ This project, developed by Rom Granot, Sharon Saban, and Michael Best, explores 
 This project uses code and dataset from the following GitHub repository:
 
 - [the-seinfeld-chronicles](https://github.com/4m4n5/the-seinfeld-chronicles) by [Aman Shrivastava](https://github.com/4m4n5)
+
+Trivia questions used for analysis where used from these sites:
+
+- [watercoolertrivia](https://www.watercoolertrivia.com/trivia-questions/seinfeld-trivia-questions)
+
+- [trivianerd](https://www.trivianerd.com/topic/seinfeld-trivia)
+
+- [scarymommy](https://www.scarymommy.com/seinfeld-trivia)
+
+- [funtrivia](https://www.funtrivia.com/questions/answers.cfm?did=2214)
