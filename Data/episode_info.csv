@@ -23,21 +23,21 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 3,5,The Library,"October 16, 1991",Larry Charles,Joshua White,S03E05
 3,6,The Parking Garage,"October 30, 1991",Larry David,Tom Cherones,S03E06
 3,7,The Cafe,"November 6, 1991",Tom Leopold,Tom Cherones,S03E07
-3,8,The Tape,"November 13, 1991","Larry David and Bob Shaw, Don McEnery",David&nbsp; Steinberg,S03E08
+3,8,The Tape,"November 13, 1991","Larry David, Bob Shaw, Don McEnery",David&nbsp; Steinberg,S03E08
 3,9,The Nose Job,"November 20, 1991",Peter Mehlman,Tom Cherones,S03E09
-3,10,The Stranded,"November 27, 1991","Larry David, Jerry Seinfeld and Matt Goldman",Tom Cherones,S03E10
-3,11,The Alternate Side,"December 4, 1991",Larry David and Bill Masters,Tom Cherones,S03E11
+3,10,The Stranded,"November 27, 1991","Larry David, Jerry Seinfeld, Matt Goldman",Tom Cherones,S03E10
+3,11,The Alternate Side,"December 4, 1991","Larry David, Bill Masters",Tom Cherones,S03E11
 3,12,The Red Dot,"December 11, 1991",Larry David,Tom Cherones,S03E12
 3,13,The Subway,"January 8, 1992",Larry David,Tom Cherones,S03E13
 3,14,The Pez Dispenser,"January 15, 1992",Larry David,Tom Cherones,S03E14
 3,15,The Suicide,"January 29, 1992",Tom Leopold,Tom Cherones,S03E15
 3,16,The Fix-Up,"February 5, 1992","Elaine Pope, Larry Charles",Tom Cherones,S03E16
-3,17,The Boyfriend (1),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E17
-3,18,The Boyfriend (2),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E18
-3,19,The Limo,"February 26, 1992",Larry Charles / Story By Marc Jaffe,Tom Cherones,S03E19
+3,17,The Boyfriend (1),"February 12, 1992","Larry David, Larry Levin",Tom Cherones,S03E17
+3,18,The Boyfriend (2),"February 12, 1992","Larry David, Larry Levin",Tom Cherones,S03E18
+3,19,The Limo,"February 26, 1992",Larry Charles,Tom Cherones,S03E19
 3,20,The Good Samaritan,"March 4, 1992",Peter Mehlman,Jason Alexander,S03E20
 3,21,The Letter,"March 25, 1992",Larry David,Tom Cherones,S03E21
-3,22,The Parking Space,"April 22, 1992",Larry David and Greg Daniels,Tom Cherones,S03E22
+3,22,The Parking Space,"April 22, 1992","Larry David, Greg Daniels",Tom Cherones,S03E22
 3,23,The Keys,"May 6, 1992",Larry Charles,Tom Cherones,S03E23
 4,1,The Trip (1),"August 12, 1992",Larry Charles,Tom Cherones,S04E01
 4,2,The Trip (2),"August 19, 1992",Larry Charles,Tom Cherones,S04E02
@@ -63,7 +63,7 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 4,22,The Handicap Spot,"May 13, 1993",Larry David,Tom Cherones,S04E22
 4,23,The Pilot (1),"May 20, 1993",Larry David,Tom Cherones,S04E23
 4,24,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,S04E24
-5,1,The Mango,"September 16, 1993","Lawrence H. Levy, Buck Dancer (Larry David pseudonym)",Tom Cherones,S05E01
+5,1,The Mango,"September 16, 1993","Lawrence H. Levy, Larry David",Tom Cherones,S05E01
 5,2,The Puffy Shirt,"September 23, 1993",Larry David,Tom Cherones,S05E02
 5,3,The Glasses,"September 30, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E03
 5,4,The Sniffing Accountant,"October 7, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S05E04
@@ -80,10 +80,10 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 5,15,The Pie,"February 17, 1994","Tom Gammill, Max Pross",Tom Cherones,S05E15
 5,16,The Stand-In,"February 24, 1994",Larry David,Tom Cherones,S05E16
 5,17,The Wife,"March 17, 1994",Peter Mehlman,Tom Cherones,S05E17
-5,18,The Raincoats,April 28 1994,"Tom Gammill, Max Pross and Larry David, Jerry Seinfeld",Tom Cherones,S05E18
+5,18,The Raincoats,April 28 1994,"Tom Gammill, Max Pross, Larry David, Jerry Seinfeld",Tom Cherones,S05E18
 5,20,The Fire,"May 5, 1994",Larry Charles,Tom Cherones,S05E20
 5,21,The Hamptons,"May 12, 1994","Peter Mehlman, Carol Leifer",Tom Cherones,S05E21
-5,22,The Opposite,"May 19, 1994","Andy Cowan and Larry David, Jerry Seinfeld",Tom Cherones,S05E22
+5,22,The Opposite,"May 19, 1994","Andy Cowan, Larry David, Jerry Seinfeld",Tom Cherones,S05E22
 6,1,The Chaperone,"September 22, 1994","Larry David, Bill Masters, Bob Shaw",Andy Ackerman,S06E01
 6,2,The Big Salad,"September 29, 1994",Larry David,Andy Ackerman,S06E02
 6,3,The Pledge Drive,"October 6, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E03
@@ -93,8 +93,8 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 6,7,The Soup,"November 10, 1994",Fred Stoller,Andy Ackerman,S06E07
 6,8,The Mom &amp; Pop Store,"November 17, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E08
 6,9,The Secretary,"December 8, 1994","Carol Leifer, Marjorie Gross",David Owen Trainor,S06E09
-6,10,The Race,"December 15, 1994","Tom Gammill, Max Pross and Larry David",Andy Ackerman,S06E10
-6,11,The Switch,"January 5, 1995",Bruce Kirschbaum and Sam Kass,Andy Ackerman,S06E11
+6,10,The Race,"December 15, 1994","Tom Gammill, Max Pross, Larry David",Andy Ackerman,S06E10
+6,11,The Switch,"January 5, 1995","Bruce Kirschbaum, Sam Kass",Andy Ackerman,S06E11
 6,12,The Label Maker,"January 19, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E12
 6,13,The Scofflaw,"January 26, 1995",Peter Mehlman,Andy Ackerman,S06E13
 6,16,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16
@@ -136,7 +136,7 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 8,4,The Little Kicks,"October 10, 1996",Spike Feresten,Andy Ackerman,S08E04
 8,5,The Package,"October 17, 1996",Jennifer Crittenden,Andy Ackerman,S08E05
 8,6,The Fatigues,"October 31, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S08E06
-8,7,The Checks,"November 7, 1996","Steve O'Donnell and Tom Gammill, Max Pross",Andy Ackerman,S08E07
+8,7,The Checks,"November 7, 1996","Steve O'Donnell, Tom Gammill, Max Pross",Andy Ackerman,S08E07
 8,8,The Chicken Roaster,"November 14, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E08
 8,9,The Abstinence,"November 21, 1996",Steve Koren,Andy Ackerman,S08E09
 8,10,The Andrea Doria,"December 19, 1996",Spike Feresten,Andy Ackerman,S08E10
@@ -145,10 +145,10 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 8,13,The Comeback,"January 30, 1997","Gregg Kavet, Andy Robin",David Owen Trainor,S08E13
 8,14,The Van Buren Boys,"February 6, 1997",Darin Henry,Andy Ackerman,S08E14
 8,15,The Susie,"February 13, 1997",David Mandel,Andy Ackerman,S08E15
-8,16,The Pothole,"February 20, 1997",Steve O'Donnell and Dan O'Keefe,Andy Ackerman,S08E16
+8,16,The Pothole,"February 20, 1997","Steve O'Donnell, Dan O'Keefe",Andy Ackerman,S08E16
 8,17,The English Patient,"March 13, 1997",Steve Koren,Andy Ackerman,S08E17
 8,18,The Nap,"April 10, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S08E18
-8,19,The Yada Yada,"April 24, 1997",Peter Mehlman and Jill Franklyn,Andy Ackerman,S08E19
+8,19,The Yada Yada,"April 24, 1997","Peter Mehlman, Jill Franklyn",Andy Ackerman,S08E19
 8,20,The Millennium,"May 1, 1997",Jennifer Crittenden,Andy Ackerman,S08E20
 8,21,The Muffin Tops,"May 8, 1997",Spike Feresten,Andy Ackerman,S08E21
 8,22,The Summer of George,"May 15, 1997","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E22
@@ -171,5 +171,5 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 9,17,The Bookstore,"April 9, 1998",Spike Feresten,Andy Ackerman,S09E17
 9,18,The Frogger,"April 23, 1998","Gregg Kavet, Andy Robin",Andy Ackerman,S09E18
 9,19,The Maid,"April 30, 1998","Alec Berg, David Mandel, Jeff Schaffer",Andy Ackerman,S09E19
-9,20,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin and Jeff Schaffer.",Andy Ackerman,S09E20
+9,20,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin, Jeff Schaffer.",Andy Ackerman,S09E20
 9,23,The Finale,"May 14, 1998",Larry David,Andy Ackerman,S09E23
