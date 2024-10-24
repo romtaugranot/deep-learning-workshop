@@ -97,15 +97,15 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 6,11,The Switch,"January 5, 1995","Bruce Kirschbaum, Sam Kass",Andy Ackerman,S06E11
 6,12,The Label Maker,"January 19, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E12
 6,13,The Scofflaw,"January 26, 1995",Peter Mehlman,Andy Ackerman,S06E13
-6,16,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16
-6,17,The Kiss Hello,"February 16, 1995","Larry David, Jerry Seinfeld",Andy Ackerman,S06E17
-6,18,The Doorman,"February 23, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E18
-6,19,The Jimmy,"March 16, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S06E19
-6,20,The Doodle,"April 6, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E20
-6,21,The Fusilli Jerry,"April 27, 1995",Marjorie Gross,Andy Ackerman,S06E21
-6,22,The Diplomat's Club,"May 4, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E22
-6,23,The Face Painter,"May 11, 1995",Larry David,Andy Ackerman,S06E23
-6,24,The Understudy,"May 18, 1995","Marjorie Gross, Carol Leifer",Andy Ackerman,S06E24
+6,14,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16
+6,15,The Kiss Hello,"February 16, 1995","Larry David, Jerry Seinfeld",Andy Ackerman,S06E17
+6,16,The Doorman,"February 23, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E18
+6,17,The Jimmy,"March 16, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S06E19
+6,18,The Doodle,"April 6, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E20
+6,19,The Fusilli Jerry,"April 27, 1995",Marjorie Gross,Andy Ackerman,S06E21
+6,20,The Diplomat's Club,"May 4, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E22
+6,21,The Face Painter,"May 11, 1995",Larry David,Andy Ackerman,S06E23
+6,22,The Understudy,"May 18, 1995","Marjorie Gross, Carol Leifer",Andy Ackerman,S06E24
 7,1,The Engagement,"September 21, 1995",Larry David,Andy Ackerman,S07E01
 7,2,The Postponement,"September 28, 1995",Larry David,Andy Ackerman,S07E02
 7,3,The Maestro,"October 5, 1995",Larry David,Andy Ackerman,S07E03
@@ -172,4 +172,5 @@ Season,Episode Number,Title,Air Date,Writers,Director,SEID
 9,18,The Frogger,"April 23, 1998","Gregg Kavet, Andy Robin",Andy Ackerman,S09E18
 9,19,The Maid,"April 30, 1998","Alec Berg, David Mandel, Jeff Schaffer",Andy Ackerman,S09E19
 9,20,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin, Jeff Schaffer",Andy Ackerman,S09E20
-9,23,The Finale,"May 14, 1998",Larry David,Andy Ackerman,S09E23
+9,21,The Finale (1),"May 14, 1998",Larry David,Andy Ackerman,S09E23
+9,22,The Finale (2),"May 14, 1998",Larry David,Andy Ackerman,S09E23
